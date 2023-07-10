@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After successfully installing osTicket, the first step in the post-installation configuration is to set up the admin account. Access the osTicket login page through the web browser and enter the default login credentials (typically "admin" for both username and password). Once logged in, navigate to the admin settings section to change the password, email address, and other relevant details. It is crucial to choose a strong password for security purposes.
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTicket relies on email for ticket creation, updates, and notifications. Therefore, configuring the email settings is a crucial step. In the admin settings section, navigate to the "Settings" tab and select "Email" from the sidebar. Enter the SMTP server details, including the server address, port number, and authentication credentials, to enable osTicket to send and receive emails. Test the email configuration by sending a test email and ensuring it is successfully received and processed by osTicket.
 </p>
 <br />
 
@@ -47,6 +47,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tailor osTicket to your specific requirements by configuring ticket settings and customizing its appearance. In the admin settings section, navigate to the "Settings" tab and explore the various options available. Configure ticket options such as default department, ticket number format, ticket auto-lock duration, and more. Customize the user interface by uploading a logo, setting the system's name, and adjusting the color scheme. These customizations help create a personalized and professional ticketing system.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enhance the user experience by setting up a knowledge base where users can find answers to frequently asked questions and troubleshoot common issues. In the admin settings section, navigate to the "Knowledge Base" tab and create categories and articles relevant to your organization or project. Provide clear and concise information, organize the content effectively, and ensure it is easily accessible to users. Regularly update the knowledge base with new articles and keep it well-maintained.
 </p>
 <br />
