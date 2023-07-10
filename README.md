@@ -20,6 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Admin Account Setup
+- User Setup
 - Email Configuration
 - Ticket Settings and Customizations
 - Knowledge Base Setup
